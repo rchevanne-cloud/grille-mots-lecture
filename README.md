@@ -1,19 +1,15 @@
-# 🎯 Générateur de Grilles de Loto Scolaire
+# 📝 Générateur de Grilles de Fluence et Lecture
 
-Cet outil gratuit permet aux enseignants de générer instantanément des grilles de loto uniques pour leurs élèves. 
+Une application simple pour transformer une liste de mots en une grille d'évaluation propre et prête à imprimer.
 
 ### ✨ Fonctionnalités
-- **Contenu flexible** : Créez des grilles avec des nombres, des syllabes ou des mots de vocabulaire.
-- **Format personnalisable** : Choisissez le nombre de lignes et de colonnes.
-- **Zéro installation** : Tout se passe dans votre navigateur.
-- **Respect de la vie privée** : Aucune donnée n'est envoyée vers un serveur.
-- **Sauvegarde** : Enregistrez vos listes préférées pour les retrouver plus tard.
+- **Calcul automatique** : Estime le nombre de syllabes totales pour préparer vos scores de fluence.
+- **Mise en page pro** : Grille de 1 à 3 colonnes avec une case de score à la fin.
+- **Adaptable** : Idéal pour les dictées de mots, la lecture de syllabes (CP/CE1) ou le vocabulaire d'anglais.
+- **Mode nomade** : Exportez et importez vos bibliothèques de mots d'un ordinateur à un autre.
 
-### 🚀 Comment l'utiliser ?
-1. Rendez-vous sur la page de l'application : [INSEREZ VOTRE LIEN ICI]
-2. Saisissez votre liste d'éléments.
-3. Réglez la taille de la police et le format.
-4. Cliquez sur **Générer**, puis sur **Imprimer**.
+### 🚀 Accès direct
+Utilisez l'outil ici : [INSEREZ VOTRE LIEN ICI]
 
 ---
-*Outil créé pour faciliter le quotidien des enseignants.*
+*Gratuit et sans publicité.*
